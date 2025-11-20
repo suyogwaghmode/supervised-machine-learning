@@ -1,4 +1,4 @@
-# Supervised Learning — Portfolio Notebook
+# Supervised Learning
 
 This folder contains a Jupyter Notebook that demonstrates supervised learning techniques applied to a materials informatics problem (predicting whether a material is metallic using the Matbench `is_metal` dataset).
 
