@@ -1,6 +1,6 @@
 # Supervised Machine Learning Techniques Applied to the Core Engineering Domain
 
-This folder contains a Jupyter Notebook that demonstrates supervised learning techniques applied to a materials informatics problem (predicting whether a material is metallic using the Matbench `is_metal` dataset).
+This folder contains a Jupyter Notebook that demonstrates supervised machine learning techniques applied to a materials informatics problem (predicting whether a material is metallic using the Matbench `is_metal` dataset).
 
 **What’s included**
 
